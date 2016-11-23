@@ -1,4 +1,6 @@
 ##source-list
+[yum install guide](https://github.com/ju2wheels/yum-mirrorrepo)
+
 
 #说一下source.list的格式
 Ubuntu 软件仓库被分为四个部分:main（主要的）, restricted（受限的）, universe（广泛的） and multiverse（多元的），这主要根据我们对软件的支持能力，以及软件的目的是否符合我们的 自由软件哲学。 
